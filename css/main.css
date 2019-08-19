@@ -13,3 +13,10 @@ h1 {
     color: navy;
     font-size: 25px;
 }
+.committes {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
