@@ -1,0 +1,15 @@
+.top {
+    background-color: navy;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+    font-size: 30px;
+}
+.description{
+    text-align: center; 
+    color: navy;
+    font-size: 25px;
+}
